@@ -1,0 +1,8 @@
+org\mac\MinimalContextConfig.class
+org\mac\GlassFishServletServer.class
+org\mac\JettyServletServer.class
+org\mac\TomcatServletServer.class
+org\mac\Bootstrap.class
+org\mac\ServletServer.class
+org\mac\MinimalErrorReportValve.class
+org\mac\MinimalLifecycleListener.class
